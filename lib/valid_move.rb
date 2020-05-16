@@ -1,5 +1,5 @@
-def valid_move?(board, index)
-  
+def valid_move?
+  if position_taken? == false
 end
 
 
