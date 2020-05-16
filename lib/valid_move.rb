@@ -1,6 +1,7 @@
 def valid_move?(board,index)
   if board[index] <= 8
     true
+  end
 end
 
 
